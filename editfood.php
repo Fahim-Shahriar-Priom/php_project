@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+</head>
+
+<body>
+<form>
+    <a href="insertfood.php">Insert </a></br>
+	<a >Update  </a></br>
+	<a >Delete  </a></br>
+    
+	</form>
+</body>
+
+</html>
